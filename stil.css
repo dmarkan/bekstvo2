@@ -1,0 +1,54 @@
+body {
+	background:black;
+}
+
+#sef {
+	margin-left:650px;
+	margin-top:-350px;
+}
+
+#slika {
+	margin-left:970px;
+	margin-top:-460px;
+	opacity:0;
+}
+
+#slika:hover {
+	opacity:1;
+}
+
+#slika2 {
+	margin-left:940px;
+	margin-top:305px;
+}
+
+#sat {
+	margin-left:660px;
+	margin-top:-350px;
+}
+
+#biljka {
+	margin-left:480px;
+	margin-top:250px;
+}
+
+#ventilacija {
+	margin-left:970px;
+	margin-top:-300px;
+}
+
+#vrata {
+	margin-left:240px;
+	margin-top:300px;
+}
+
+#sifra {
+	margin-left:455px;
+	margin-top:-200px;
+}
+
+#plocice {
+	margin-left:900px;
+	margin-top:450px;
+}
+
